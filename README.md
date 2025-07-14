@@ -4,8 +4,6 @@
 
 Welcome to the **Custom MCPs** repository, for enhancing Claude with modular, developer-friendly Model Control Plugins (MCPs). These plugins are designed to be highly customizable, enabling you to tailor Claude’s functionality to your specific needs with ease.
 
-This project is proudly developed by **TOMO RESEARCH LLC**.
-
 ## Getting Started
 
 Follow these steps to integrate Custom MCPs with Claude and unlock their full potential.
