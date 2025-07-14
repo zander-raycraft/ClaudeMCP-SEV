@@ -1,0 +1,4 @@
+/txt-logger/log.txt
+/txt-logger/node_modules
+/txt-logger/dist
+/txt-logger/package-lock.json
