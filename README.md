@@ -75,7 +75,7 @@ For the `txt-logger` MCP, your `claude_desktop_config.json` might look like this
 
 If you encounter any issues or have ideas for new features, please submit them through our issue tracker. We value your feedback and will address it promptly.
 
-## About TOMO RESEARCH LLC
+## About Tomo Research
 
-This repository is developed and maintained as fit by **Tomo Research**,. For inquiries or ideas, contact me at zander@tomolab.io
+This repository is developed and maintained as fit by **Tomo Research**. For inquiries or ideas, contact me at zander@tomolab.io
 
