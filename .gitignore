@@ -4,3 +4,8 @@
 /txt-logger/dist
 /txt-logger/package-lock.json
 /txt-logger/logs
+
+# repo-context
+/repo-context/node_modules
+/repo-context/dist
+/repo-context/package-lock.json
