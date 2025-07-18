@@ -141,3 +141,7 @@ MIT
 ## Support
 
 For issues and feature requests, please open an issue on the GitHub repository.
+
+## About Tomo Research
+
+This repository is developed and maintained as fit by **Tomo Research**. For inquiries or ideas, contact me at zander@tomolab.io
