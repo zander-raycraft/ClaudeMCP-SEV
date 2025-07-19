@@ -1,0 +1,23 @@
+{
+    "name": "web-search",
+    "version": "1.0.1",
+    "description": "MCP server for internet connectivity and web scraping",
+    "type": "module",
+    "main": "dist/WebSearch.js",
+    "scripts": {
+        "build": "tsc",
+        "start": "node dist/WebSearch.js",
+        "dev": "tsx src/WebSearch.ts"
+    },
+    "dependencies": {
+        "@modelcontextprotocol/sdk": "^0.5.0",
+        "axios": "^1.7.2",
+        "cheerio": "^1.0.0-rc.12",
+        "package.json": "^2.0.1"
+    },
+    "devDependencies": {
+        "@types/node": "^20.0.0",
+        "tsx": "^4.7.0",
+        "typescript": "^5.3.0"
+    }
+}

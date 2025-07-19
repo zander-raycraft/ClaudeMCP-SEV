@@ -9,3 +9,8 @@
 /repo-context/node_modules
 /repo-context/dist
 /repo-context/package-lock.json
+
+# web-search
+/web-search/node_modules
+/web-search/dist
+/web-search/package-lock.json
